@@ -1,4 +1,7 @@
 package org.superbiz.struts;
 
-public class Index {
+import com.opensymphony.xwork2.ActionSupport;
+
+public class Index extends ActionSupport {
+
 }
